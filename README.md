@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho em outro ramo, PCM, estou em busca de uma transição de carreira.
 - 🌱 Atualmente estou estudando com o curso profissão programador: HTML, CSS, JS, redes e protocolos, react, banco de dados, SQL, nodeJS... Mobile. Estou iniciando uma graduação na UFMS de Cientista de Dados.
 - 👯 Gostaria de interagir com todos os colegas programadores para adiquirir mais conhecimento e contribuir, além de interação com empresas para futuros projetos.
-- 📫 Meus contatos:
+
 
 <div align="center">
 <a href="https://github.com/Alef-Hde-SouzaN">
