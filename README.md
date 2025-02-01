@@ -1,8 +1,13 @@
-### Olá, eu sou o Alef 👋
+### 👋 Olá, eu sou o Alef!  
 
-- 🔭 Atualmente trabalho em outro ramo, PCM, estou em busca de uma transição de carreira.
-- 🌱 Atualmente estou estudando com o curso profissão programador: HTML, CSS, JS, redes e protocolos, react, banco de dados, SQL, nodeJS... Mobile. Estou iniciando uma graduação na UFMS de Cientista de Dados.
-- 👯 Gostaria de interagir com todos os colegas programadores para adiquirir mais conhecimento e contribuir, além de interação com empresas para futuros projetos.
+- 📊 Iniciando minha carreira na área de **Dados**, como **Analista de Dados Jr.** e explorando as áres de **Ciência e Engenharia**.  
+- 🎓 Cursando **Ciência de Dados** na **UFMS** e **Engenharia de Dados** pela **Jornada de Dados**.  
+- 📚 No curso de **Analista de Dados e Ciência de Dados** da **Comunidade Estatística Prof. Thiago Marques**, aprofundei conhecimentos em **estatística, metodologia, ferramentas, técnicas, R e dados geoespaciais**.  
+- 🛠️ Trabalho com **Python, SQL, Power BI, ETL, Machine Learning**, além de conhecimentos em **HTML, CSS, JS, redes e protocolos, React, bancos de dados e Node.js**.  
+- 🤝 Busco colaborar com a comunidade de dados, adquirindo mais experiência e contribuindo com projetos desafiadores.  
+
+---
+💬 Vamos conectar?  
 
 
 <div align="center">
